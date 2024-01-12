@@ -6,7 +6,7 @@ Do uruchomienia będzie jeszcze baza danych.
 ## Backend:
 * Symfony 6
 * folder soulbackend
-* 
+
 ### Instalacja
 1) konfiguracja bazy danych
 2) zmiana nazwy .env.example na .env
